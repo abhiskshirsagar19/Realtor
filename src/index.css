@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+bodY {
+    background-color: rgb(240, 253, 244);
+}
